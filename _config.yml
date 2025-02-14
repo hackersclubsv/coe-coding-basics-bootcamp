@@ -7,4 +7,4 @@ relative_links:
   collections: true
 include:
   - README.md
-  - docs/greetings.md
+  - docs/*.md
