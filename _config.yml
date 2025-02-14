@@ -8,6 +8,8 @@ relative_links:
   collections: true
 title: COE Coding Basics Bootcamp
 description: A bootcamp for learning the basics of coding
+baseurl: "/coe-coding-basics-bootcamp"
+url: "https://hackersclubsv.github.io/"
 
 include:
   - index.md

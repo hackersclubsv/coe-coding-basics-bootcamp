@@ -15,4 +15,4 @@ title: Greeting from [Your Name EXAMPLE]
 
 **Back to [Homepage](https://hackersclubsv.github.io/coe-coding-basics-bootcamp/)**
 
-**Back to [Workshop Submissions](/pages/contents/submissions)**
+**Back to [Workshop Submissions](https://hackersclubsv.github.io/coe-coding-basics-bootcamp/pages/contents/submissions)**
