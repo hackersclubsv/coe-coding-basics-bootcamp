@@ -1,3 +1,24 @@
+---
+layout: default
+title: Setup Guide
+---
+
+## **Pre-Workshop Checklist** 
+
+### **1. Required Installations**
+
+| Tool           | Verification Command              |
+| -------------- | --------------------------------- |
+| Java JDK 11+   | `java -version && javac -version` |
+| Git            | `git --version`                   |
+| Terminal/Shell | `ls` (should list files)          |
+
+### **2. GitHub Account**
+
+1. Create free account: [github.com/signup](https://github.com/signup)
+2. **Optional**: Set up SSH keys ([guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh))
+
+
 ## **Setup Guide** 
 
 ### **Java Installation**
