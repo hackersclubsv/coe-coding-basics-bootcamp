@@ -9,7 +9,7 @@ Welcome to our **beginner-friendly** coding bootcamp! In this 1-hour hands-on 
 - **GitHub Repository Management** 🐈
 - 
 No prior coding experience required! Just bring your curiosity!
-
+<!--
 ## **Pre-Workshop Checklist** 
 
 ### **1. Required Installations**
@@ -24,6 +24,7 @@ No prior coding experience required! Just bring your curiosity!
 
 1. Create free account: [github.com/signup](https://github.com/signup)
 2. **Optional**: Set up SSH keys ([guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh))
+-->
 
 ## Setup Guide
 If you haven't already installed the required tools, please follow the instructions below:
