@@ -12,7 +12,14 @@ title: Greeting from [Your Name EXAMPLE]
 5. Submit a pull request to the main repository.
 -->
 
+Hello! Greetings from [Your Name]! 
 
+<!-- Your message here... -->
+
+
+
+
+<!-- DON'T MODIFY THE TEXT BELOW -->
 **Back to [Homepage](https://hackersclubsv.github.io/coe-coding-basics-bootcamp/)**
 
 **Back to [Workshop Submissions](https://hackersclubsv.github.io/coe-coding-basics-bootcamp/pages/contents/submissions)**

@@ -111,23 +111,18 @@ ls
 
   
 ### 1-3. Open the greeting folder and read the `Greeter.java` file
-- Navigate to the `greeting` folder using the `cd` command.
-
-```bash
-cd greeting
-```
 
 - Use the `ls` command to list the files in the `greeting` folder.
 
 
 ```bash
-ls
+ls greeting
 ```
 
 - Check the contents of the `Greeter.java` file using the `cat` command.
 
 ```bash
-cat Greeter.java
+cat greeting/Greeter.java
 ```
 
 - Read the contents of the `Greeter.java` file to understand the code structure and comments.
@@ -136,8 +131,8 @@ cat Greeter.java
 -  Use the `javac` command to compile the Java file and use the `java` command to run the compiled Java program.
   
 ```bash
-javac Greeter.java
-java Greeter
+javac greeting/Greeter.java
+java greeting.Greeter
 ```
 
 - Observe the output of the program in the terminal.
@@ -159,7 +154,7 @@ Workshop Task:
 - Edit the `Greeter.java` file to customize the greeting message by the `nano` text editor.
 
 ```bash
-nano Greeter.java
+nano greeting/Greeter.java
 ```
 
 - Modify the `DEFAULT_NAME` and `DEFAULT_CAMPUS` variables with your information.
@@ -167,8 +162,8 @@ nano Greeter.java
 - Compile and run the updated `Greeter.java` file to see the new greeting message.
 
 ```bash
-javac Greeter.java
-java Greeter
+javac greeting/Greeter.java
+java greeting.Greeter
 ```
 
 - Verify that the greeting message has been updated with your information.
@@ -203,7 +198,7 @@ git status
 - Navigate to the `pages` folder using the `cd` command.
 
 ```bash
-cd ../pages
+cd pages
 ```
 
 - Use the `ls` command to list the files in the `pages` folder.
@@ -217,6 +212,7 @@ ls
 ```bash
 cat greeting-example.md
 ```
+
 - Read the contents of the `greeting-example.md` file to understand the TODO tasks.
 - Copy this template file to the same directory with a new name `yourname.md`.
 
@@ -273,7 +269,7 @@ git add pages/yourname.md
 git status
 ```
 
-![git_status](git_status.png)
+![git_add](git_add.png)
 
 - **Note**: The staging area is where you prepare your changes before committing them to the repository.
 - If you mistakenly add other files, you can use the `git reset` command to unstage them.
@@ -296,6 +292,8 @@ git commit -m "Add greeting message for yourname"
 git status
 ```
 
+![git_commit](git_commit.png)
+
 - Push the changes to your GitHub repository using the `git push` command.
 
 ```bash
@@ -308,6 +306,9 @@ git push
 ### 2-5. Create a Pull Request (PR) to the Original Repository
 - Visit your forked repository on GitHub.
 - Click "Contribute" → "Open Pull Request" to create a new pull request.
+
+![open_pr](open_pr.png)
+
 - Compare the changes between your fork and the original repository. Ensure you're comparing:  
    - Base: `hackersclubsv/main`  
    - Head: `your-username/main`  
@@ -319,6 +320,8 @@ Add greeting message for yourname
 # Example PR Description:
 I have added my greeting message to the workshop page. Please review and merge the changes. Thank you!
 ```
+
+![create_pr](create_pr.png)
 
 - Submit the pull request for review by the repository owner.
 

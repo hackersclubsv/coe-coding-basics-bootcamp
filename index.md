@@ -32,7 +32,9 @@ If you haven't already installed the required tools, please follow the instructi
 **[Setup Guide](pages/contents/setup-guide)**
 
 ## **Workshop Actvities**
-- [Workshop Activities](pages/contents/workshop-activities) 
+- [Workshop Activities](pages/contents/workshop-activities)
+
+## **Workshop Submissions** 
 - [Workshop Submissions](pages/contents/submissions)
 
 ## **Need Help?** 
