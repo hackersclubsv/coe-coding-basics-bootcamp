@@ -19,14 +19,14 @@ No prior coding experience required! Just bring your curiosity!
 | Terminal/Shell | `ls` (should list files)          |
 
 ### **2. GitHub Account**
-1. Create free account: [github.com/signup](https://github.com/signup)
+1. Create a free account: [github.com/signup](https://github.com/signup)
 2. **Optional**: Set up SSH keys ([guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh))
 
 ## Setup Guide
 If you haven't already installed the required tools, please follow the instructions below:
-**[Setup Guide](pages/setup-guide.md)**
+**[Setup Guide](pages/contents/setup-guide.md)**
 
-## **Workshop Actvities**
+## **Workshop Activities**
 Please visit the Workshop Pages for detailed instructions:
 [coe-coding-basics-bootcamp Homepage](https://hackersclubsv.github.io/coe-coding-basics-bootcamp/)
 
