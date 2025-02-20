@@ -182,6 +182,8 @@ Workshop Task:
 
 **Now, you have successfully completed activity 1 and achieved the first goal - Understanding Java Syntax and OOP Basics! 🎉**
 
+To recap the code explanation and fundamental concepts, please refer to [Greeter Java Code Explanation and OOP Principles](https://hackersclubsv.github.io/coe-coding-basics-bootcamp/pages/contents/java-oop-concepts).
+
 ## Activity 2: Pratice Essential Commands and Git Basics
 
 ### 2-1. Check the git status to understand the repository status
