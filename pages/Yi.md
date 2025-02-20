@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Greeting from [Your Name EXAMPLE]
+title: Greeting from [Yi]
 ---
 
 <!-- 
